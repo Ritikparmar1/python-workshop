@@ -1,0 +1,12 @@
+a=2
+print(a)
+b=4.7
+print(b)
+c="abc123*"
+print(c)
+d=True
+print(d)
+e=None
+print(e)
+f=5j
+print(f)

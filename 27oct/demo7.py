@@ -1,0 +1,10 @@
+a=15
+print("a= ",a)
+a+=3
+print("a= ",a)
+a-=4
+print("a= ",a)
+a*=7
+print("a= ",a)
+a/=12
+print("a= ",a)

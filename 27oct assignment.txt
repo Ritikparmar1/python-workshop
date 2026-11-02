@@ -1,0 +1,28 @@
+27oct assignment
+Wap to calculate area of circle and square
+wap to calculate total and percentage of five subject marks
+wap for swapping of two number with or without using third variable
+
+280ct Assignment 
+1.wap to find max among 3 numbers using multiple if
+2.wap to find middle among 3 numbers using multiple if
+3.wap to calculate profit and loss with given cost price and selling price
+4. wat to calculate total and net salary where variable are basic salary, bonus, hra and pf is 7.8% on basic salary
+5.wap to find max of 4 numbers
+
+29oct assignment
+1. print sum of given series
+  1/1+1/2...........1/n
+2. program for factorial of given no
+3. print sum of given series
+1/1!+1/2!...........1/n!
+4 print even series
+5.print odd series
+30oct assignment
+
+02november assignment
+1. wap to find diif-diff area using menu driven program
+2.find even/odd no. in list
+3.find 1 max and second max in list
+4.find duplicate element in list
+5.find sum and product of list element

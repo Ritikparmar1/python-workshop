@@ -1,0 +1,12 @@
+a=5
+print(type(a))
+a=3.14
+print(type(a))
+a="abc123"
+print(type(a))
+a=True
+print(type(a))
+a=None
+print(type(a))
+a=6j
+print(type(a))
